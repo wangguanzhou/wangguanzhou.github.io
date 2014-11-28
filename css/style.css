@@ -4,6 +4,31 @@ body {
 }
 
 .container {
-	width: 760px;
+	width: 772px;
+	margin: 0 auto;
 	background-color: #e0ffff;
+	border: 1px solid #0000ff;
+}
+
+.column {
+	width: 700px;
+	padding: 40px;
+}
+
+.sidebar [
+	width: 72px;
+	padding: 0;
+	 
+}
+
+.logo {
+	
+}
+
+.log img {
+
+}
+
+.nav {
+
 }

@@ -1,9 +1,9 @@
 body {
-	background-color: darkgray;
+	background-color: #808080;
 	padding-top: 40px;
 }
 
 .container {
 	width: 760px;
-	background-color: white;
+	background-color: #e0ffff;
 }

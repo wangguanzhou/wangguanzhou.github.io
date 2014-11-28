@@ -34,7 +34,7 @@ body {
 	
 }
 
-.log img {
+.logo img {
 
 }
 
@@ -48,4 +48,9 @@ body {
 	padding-bottom: 5px;
 	font-size: 12px;
 
+}
+
+.footer {
+	text-align: center;
+	font-size: 11px;
 }

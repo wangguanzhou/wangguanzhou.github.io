@@ -14,8 +14,7 @@ body {
 .column {
 	display: inline-block;
 	vertical-align: top;
-	float: left;
-	width: 690px;
+	width: 620px;
 	padding: 40px;
 	background-color: #ffffff;
 }
@@ -23,7 +22,6 @@ body {
 .sidebar {
 	display: inline-block;
 	vertical-align: top;
-	float: right;
 	width: 72px;
 	padding: 0;
 	border: 1px solid #0000ff;

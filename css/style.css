@@ -50,6 +50,10 @@ body {
 
 }
 
+.photos {
+	vertical-align: bottom;
+}
+
 .footer {
 	background-color: #ffffff;
 	border-top: 1px, solid, #dedede;

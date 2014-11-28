@@ -18,6 +18,11 @@
 				<img src="img/6677ba.png">
 			</div>
 			<div class="nav">
+				{% for link in site.links %}
+					<div class="navlink">
+					<a target="_top" href="{{link.url}}">{{link.name}}</a>
+					</div>
+				{% endfor %}
 			</div>
 		</div>
 	</div>

@@ -4,3 +4,15 @@ description:	"tech notes, blogs and photos"
 permalink:	date
 
 paginate:	3
+
+links:
+ - name:	Home
+ - url:		/
+ - name:	Blog
+ - url:		/
+ - name:	Notes
+ - url:		/
+ - name:	Photos
+ - url:		/
+ - name:	About
+ - url:		/

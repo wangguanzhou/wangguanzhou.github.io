@@ -7,18 +7,15 @@ body {
 	width: 774px;
 	margin: 0 auto;
 	padding: 0px;
-	background-color: #e0ffff;
+	background-color: #ffffff;
 	border: 0px solid #000000;
 }
 
 .column {
 	display: inline-block;
 	vertical-align: top;
-	position: absolute;
-	left: 0;
-	top: 0;
-	bottom: 0;
 	padding: 40px;
+	background-color: #ffffff;
 }
 
 .sidebar {

@@ -1,3 +1,9 @@
+body {
+	background-color: darkgray;
+	padding-top: 40px;
+}
+
 .container {
-	width=760px;
+	width: 760px;
+	background-color: white;
 }

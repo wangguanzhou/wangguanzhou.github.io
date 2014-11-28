@@ -1,6 +1,9 @@
 body {
 	background-color: #808080;
 	padding-top: 40px;
+	font-family: "Open Sans", sans-serif;
+	font-size: 13px;
+	line-height: 1.65em;
 }
 
 .container {
@@ -36,9 +39,12 @@ body {
 }
 
 .nav {
-
+	padding-top: 40px;
 }
 
 .navlink {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-size: 12px;
 
 }

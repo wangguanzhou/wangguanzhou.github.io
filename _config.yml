@@ -1,0 +1,9 @@
+name:		"6677ba's Notes"
+description:	"tech notes, blogs and photos"
+author:		"Guanzhou Wang"
+author_email:	alexwang74@gmail.com
+
+permalink:	date	# /:categories/:year/:month/:date/:title.html
+
+baseurl:
+paginate:	3

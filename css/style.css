@@ -8,13 +8,13 @@ body {
 	margin: 0 auto;
 	padding: 0px;
 	background-color: #ffffff;
-	border: 1px solid #000000;
+	border: 0px solid #000000;
 }
 
 .column {
 	display: inline-block;
 	vertical-align: top;
-	width: 610px;
+	width: 620px;
 	padding: 40px;
 	background-color: #ffffff;
 }
@@ -24,7 +24,6 @@ body {
 	vertical-align: top;
 	width: 72px;
 	padding: 0;
-	border: 0px solid #0000ff;
 	 
 }
 

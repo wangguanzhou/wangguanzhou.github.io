@@ -14,13 +14,13 @@ body {
 .column {
 	display: inline-block;
 	vertical-align: top;
-	width: 700px;
 	padding: 40px;
 }
 
 .sidebar {
 	display: inline-block;
 	vertical-align: top;
+	float: right;
 	width: 72px;
 	padding: 0;
 	 

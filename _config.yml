@@ -3,7 +3,7 @@ description:	"tech notes, blogs and photos"
 
 permalink:	date
 
-paginate:	1
+paginate:	3
 
 links:
  - name:	Home

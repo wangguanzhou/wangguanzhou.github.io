@@ -50,6 +50,10 @@ body {
 
 }
 
+span.category {
+	padding: 10px;
+}
+
 .photos {
 	padding: 0;
 	margin: 0

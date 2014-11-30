@@ -1,6 +1,6 @@
 ---
 layout: 
 title:
-category: blogs
+category: Blogs
 ---
 

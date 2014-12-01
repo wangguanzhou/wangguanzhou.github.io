@@ -5,7 +5,7 @@ layout:	default
 {% for post in paginator.posts %}
 	<h2>{{ post.title }}</h2>
 	<time>{{ post.date | date_to_string }}</time>
-	<span class="category">Category:&nbsp;{{ post.category }}</span>
+	<span class="category">Category:&nbsp;<a href="/{{post.category}}.html">{{ post.category }}</a></span>
 	{{ post.content }}
 {% endfor %}
 

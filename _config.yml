@@ -9,20 +9,20 @@ links:
  - name:	Home
    url:		/
  - name:	Blogs
-   url:		/blogs.html
+   url:		/Blogs.html
  - name:	Notes
-   url:		/notes.html
+   url:		/Notes.html
  - name:	Photos
-   url:		/photos.html
+   url:		/Photos.html
  - name:	About
-   url:		/about.html
+   url:		/About.html
 
 categories:
  - name:	Blogs
-   url:		/blogs.html
+   url:		/Blogs.html
  - name:	Notes
-   url:		/notes.html
+   url:		/Notes.html
  - name:	Français
-   url:		/frençais.html
+   url:		/Frençais.html
  - name:	Photos
-   url:		/photos.html
+   url:		/Photos.html

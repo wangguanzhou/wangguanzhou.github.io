@@ -6,7 +6,7 @@ layout:	default
 {% for post in site.posts %}
 	{% if post.category == "Blogs" %}
 		<div>
-		<a href="{{ post.url }}"><span>{{ post.title }}</span></a>
+		<a href="{{ post.url }}"><span style="margin-right: 20px">{{ post.title }}</span></a>
 		<time> {{ post.date | date_to_string }} </time>
 		</div>
 	{% endif %}

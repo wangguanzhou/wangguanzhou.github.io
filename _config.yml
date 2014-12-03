@@ -7,12 +7,22 @@ paginate:	3
 
 links:
  - name:	Home
- - url:		/
- - name:	Blog
- - url:		/
+   url:		/
+ - name:	Blogs
+   url:		/blogs.html
  - name:	Notes
- - url:		/
+   url:		/notes.html
  - name:	Photos
- - url:		/
+   url:		/photos.html
  - name:	About
- - url:		/
+   url:		/about.html
+
+categories:
+ - name:	Blogs
+   url:		/blogs.html
+ - name:	Notes
+   url:		/notes.html
+ - name:	Français
+   url:		/frençais.html
+ - name:	Photos
+   url:		/photos.html

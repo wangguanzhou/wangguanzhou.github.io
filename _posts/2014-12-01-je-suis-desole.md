@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Responses to "Je suis désolé"
-category: Français
+category: French 
 ---
 
 Ce n'est pas grave - It doesn't matter.<br/>

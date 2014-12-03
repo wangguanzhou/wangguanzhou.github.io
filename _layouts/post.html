@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE" />
+	<meta charset="utf-8" />
+    <title>{{ site.title }}</title>
+	<meta name="viewport" content="width=device-width, intial-scale=1.0">
+	<link href="/css/style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+	<div class="container">
+		<div class="column">
+			<h2> {{ page.title }} </h2>
+			<div class="content">
+				{{content}}
+			</div>
+		</div>
+		<div class="sidebar">
+			<div class="logo">
+				<img src="/img/6677ba.png">
+			</div>
+			<div class="nav">
+				{% for link in site.links %}
+					<div class="navlink">
+					<a target="_top" href="{{link.url}}">{{link.name}}</a>
+					</div>
+				{% endfor %}
+			</div>
+		</div>
+	</div>
+	<div class="footer">
+		Hosted by <a href="https://pages.github.com">GitHub Pages</a>.
+	</div>
+</body>
+
+
+</html>

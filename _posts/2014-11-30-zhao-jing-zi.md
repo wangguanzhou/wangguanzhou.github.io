@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 爱照镜子的王小六
 category: Blogs
 ---

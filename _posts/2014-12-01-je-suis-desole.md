@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Responses to "Je suis désolé"
 category: Français
 ---

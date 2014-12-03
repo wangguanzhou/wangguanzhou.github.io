@@ -2,8 +2,10 @@
 layout:	default
 ---
 
+<h2>Blogs</h2>
 {% for post in site.posts %}
 	{% if post.category == "Blogs" %}
-		<span>{{ post.title }}</span>
+		<a href="{{ post.url }}"><span>{{ post.title }}</span></a>
+		<time> {{ post.date | date_to_string }} </time>
 	{% endif %}
 {% endfor %}

@@ -12,6 +12,7 @@
 	<div class="container">
 		<div class="column">
 			<h2> {{ page.title }} </h2>
+			<time> {{ page.date | date_to_string }} </time>
 			<div class="content">
 				{{content}}
 			</div>

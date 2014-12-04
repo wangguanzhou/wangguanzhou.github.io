@@ -20,7 +20,7 @@ Another typical scenario is the data center where mutiple paths can collide with
 each other and don't make an optimal usage of the available bandwidth. Though I haven't
 figured out how multipath TCP may help in this scenario. <br/>
 
-In the handshake of MTCP, the host may indicate it's multipath capability to the
+In the handshake of MTCP, the host may indicate its multipath capability to the
 server so a Multipath connection can be set up. When a new link/interface is
 available the host simply use "SYN JOIN" to add a "subflow" to the existing
 connection. <br/>
@@ -32,11 +32,4 @@ one-pair of IP addresses or multiple addrs. <br/>
 
 In recent Coordinated SIPTO discussion in 3GPP, it was mentioned that MTCP can
 be utilized to solve the session continuity issue when the traffic needs to be
-moved from one eNB/LGW to another. It may also find some usage in RAN/3GPP
-aggregation scenarios. <br/>
-
-There's a good presentation here [MTCP talk in
-Youtube](https://www.youtube.com/watch?v=02nBaaIoFWU). It's very long and I
-haven't watched the full talk, need to revisit it later on. 
-
-
+moved from one eNB/LGW to another. It may also find some usage in RAN/WLAN aggregation scenarios. <br/> There's a good presentation here [MTCP talk in Youtube](https://www.youtube.com/watch?v=02nBaaIoFWU). It's very long and I haven't watched the full talk, need to revisit it later on.  

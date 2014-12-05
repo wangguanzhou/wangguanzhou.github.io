@@ -14,3 +14,6 @@ should not be a difficult task.
 
 ![]({{site.url}}/photos/2014/2014-12-04-raspberry.jpg)
 
+Just found out that the SD card I was going to install Raspbmc is corrupted. So
+frustrating. It has just ruined my weekend. Not sure
+if it's damaged by the last Raspberry or this new one.

@@ -1,5 +1,5 @@
 ---
-: post
+layout: post
 title: SMS over LTE
 category: Notes
 ---
